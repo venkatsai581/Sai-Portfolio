@@ -111,6 +111,7 @@ export const timeline = [
   { when: 'Apr 2026 to now', title: 'Full Stack Developer, Stackly', text: 'Building full-stack features with ReactJS, REST APIs and MySQL, plus debugging and API testing.' },
   { when: '2021 to 2025', title: 'B.Tech in Computer Science and Engineering', text: 'Institute of Aeronautical Engineering. CGPA 7.81.' },
   { when: '2019 to 2021', title: 'MPC, Narayana Jr College', text: 'Percentage 89.4%.' },
+  { when: '2018 to 2019', title: 'SSC, Bhashyam High School', text: 'GPA 8.3.' },
 ]
 
 export const certs = [
